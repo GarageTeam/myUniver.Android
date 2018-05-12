@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item
+		android:id="@+id/navSchedule"
+		android:icon="@android:drawable/ic_menu_delete"
+		android:title="Schedule" />
+
+	<item
+		android:id="@+id/navProfessors"
+		android:icon="@android:drawable/ic_menu_delete"
+		android:title="Professors" />
+
+	<item
+		android:id="@+id/navSettings"
+		android:icon="@android:drawable/ic_menu_delete"
+		android:title="Settings" />
+
+</menu>
